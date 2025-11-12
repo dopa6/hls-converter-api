@@ -1,0 +1,9 @@
+{
+  "name": "hls-converter-api",
+  "version": "1.0.0",
+  "main": "api/hls.js",
+  "scripts": {},
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.11.8"
+  }
+}
